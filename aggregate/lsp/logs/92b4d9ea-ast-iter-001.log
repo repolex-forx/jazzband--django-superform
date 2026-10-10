@@ -1,0 +1,7 @@
+[2026-10-10T19:24:38Z] === AST ITERATION 1 START | repo=jazzband/django-superform sha=92b4d9ea ===
+[2026-10-10T19:24:38Z] [iter=1] PHASE START: ast repo=jazzband/django-superform sha=92b4d9ea
+[2026-10-10T19:24:38Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T19:24:45Z] [iter=1] AST chunks built count=1 triples=65499
+[2026-10-10T19:24:45Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/92b4d9ea2c891d422abe97600cd281c2bf0d1d3c/.complete
+[2026-10-10T19:24:45Z] [iter=1] PHASE END: ast elapsed_s=7 elapsed_min=0.1
+[2026-10-10T19:24:45Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
